@@ -19,7 +19,7 @@
 
 <h2 align="center">  :hammer: TECH STACK  :hammer: </h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/CoffeeScript-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=CoffeeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
@@ -47,6 +47,6 @@
 <h2 align="center"> :notebook_with_decorative_cover: OS :notebook_with_decorative_cover:</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-2C2255?style=flat-square&logo=Windows 95&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-2C2255?style=flat-square&logo=Windows 95&logoColor=#0078D6"/>
   <img src="https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=Ubuntu&logoColor=white"/>
 </p>
