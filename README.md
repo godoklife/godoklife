@@ -17,7 +17,7 @@
   
 </p>
 
-<h2 align="center">  🔥: TECH STACK  🔥: </h2>
+<h2 align="center">  🔥 TECH STACK  🔥 </h2>
 <p align="center">
   <img height="30px" src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=CoffeeScript&logoColor=white"/>
   <img height="30px" src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=JAVA&logoColor=white"/>
