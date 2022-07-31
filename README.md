@@ -41,8 +41,8 @@
 
 <h2 align="center"> :notebook_with_decorative_cover: IDE :notebook_with_decorative_cover:</h2>
 <p align="center">
+<img height="30px" src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
   <img height="30px" src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-  <img height="30px" src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 </p>
 
 <h2 align="center"> :notebook_with_decorative_cover: OS :notebook_with_decorative_cover:</h2>
