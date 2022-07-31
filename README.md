@@ -46,7 +46,7 @@
 
 <h2 align="center"> :notebook_with_decorative_cover: OS :notebook_with_decorative_cover:</h2>
 <p align="center">
-  <img height="30px" src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
   <img height="30px" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows 95&logoColor=White"/>
   <img height="30px" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img height="30px" src="https://img.shields.io/badge/Amazon Linux2-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
