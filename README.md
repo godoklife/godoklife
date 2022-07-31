@@ -48,6 +48,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows 95&logoColor=White"/>
-  <img src="https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=Ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon Linux2-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </p>
