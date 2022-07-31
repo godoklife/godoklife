@@ -44,3 +44,9 @@
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 </p>
 
+<h2 align="center"> :notebook_with_decorative_cover: OS :notebook_with_decorative_cover:</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-2C2255?style=flat-square&logo=Windows 95&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=Ubuntu&logoColor=white"/>
+</p>
