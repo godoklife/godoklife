@@ -39,13 +39,13 @@
   <img height="30px" src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
 </p>
 
-<h2 align="center"> 🔨 IDE 🔨</h2>
+<h2 align="center"> :hammer_and_wrench: IDE :hammer_and_wrench:</h2>
 <p align="center">
 <img height="30px" src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
   <img height="30px" src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
 </p>
 
-<h2 align="center"> 🖥️ OS 🖥️</h2>
+<h2 align="center"> :desktop_computer: OS :desktop_computer:</h2>
 <p align="center">
   <img height="30px" src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
   <img height="30px" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows 95&logoColor=White"/>
